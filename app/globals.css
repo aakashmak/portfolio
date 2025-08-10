@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #0a192f;
+  --light-navy: #112240;
+  --lightest-navy: #233554;
+  --slate: #8892b0;
+  --light-slate: #a8b2d1;
+  --lightest-slate: #ccd6f6;
+  --white: #e6f1ff;
+  --green: #64ffda;
+  --green-tint: rgba(100, 255, 218, 0.1);
+}
+
+@layer base {
+  body {
+    @apply bg-navy text-slate;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-lightest-slate font-semibold;
+  }
+
+  section {
+    @apply px-5 py-24;
+  }
+}
+
+@layer components {
+  .numbered-heading {
+    @apply flex items-center relative mb-10 w-full whitespace-nowrap;
+  }
+
+  .numbered-heading::after {
+    content: "";
+    @apply block relative w-full h-px ml-5 bg-lightest-navy;
+  }
+
+  .nav-link {
+    @apply font-mono text-xs text-lightest-slate hover:text-green transition-colors duration-200;
+  }
+
+  .nav-link-number {
+    @apply text-green mr-1;
+  }
+
+  .social-link {
+    @apply text-light-slate hover:text-green transition-colors duration-200;
+  }
+
+  .button {
+    @apply font-mono text-green bg-transparent border border-green rounded px-4 py-3 
+           hover:bg-green-tint transition-all duration-200 inline-block;
+  }
+
+  .section-centered {
+    @apply mx-auto max-w-3xl;
+  }
+}
