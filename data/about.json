@@ -1,0 +1,23 @@
+{
+  "title": "About Me",
+  "bio": [
+    "I am a Data Analytics and AI professional with over 3+ years of hands-on experience delivering business intelligence, predictive analytics, and machine learning solutions across Healthcare, Logistics, and Technology domains. My expertise covers the full data lifecycle — from data extraction, cleaning, and transformation to building, optimizing, and deploying advanced analytics models at scale.",
+    "I specialize in SQL, Power BI, Python, NLP, and modern cloud platforms (AWS, Azure), enabling organizations to convert complex datasets into actionable insights. With a strong academic foundation in Data Analytics from Northeastern University and a proven track record in industry projects, I have successfully implemented AI-driven solutions that enhanced operational efficiency, automated workflows, and improved decision-making for diverse stakeholders."
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "AI",
+    "SQL",
+    "Machine Learning",
+    "Statistical Analysis",
+    "Data Visualization",
+    "Tableau",
+    "Power BI",
+    "NLP",
+    "Git",
+    "AWS",
+    "Docker"
+  ],
+  "avatar": "/images/aakash-profile.jpeg"
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Stock-intel Crew",
+    "description": "The StockIntel-crew project is an innovative tool designed to simplify stock market analysis by integrating artificial intelligence with financial data processing. It aims to provide retail investors, analysts, and enthusiasts with comprehensive financial reports for any stock ticker, such as \"IONQ.\" The system leverages a multi-agent architecture powered by CrewAI, realtime data from YFinance, and advanced language models from Groq, presented through an interactive Streamlit interface with Plotly visualizations.",
+    "image": "/images/stock-intel-crew.png",
+    "tech": ["Python", "Langchain", "YFinance", "OpenAI/GPT", "StreamLit"],
+    "github": "https://github.com/aakashmak/Stockintel-crew",
+    "liveUrl": "https://github.com/aakashmak/Stockintel-crew"
+  },
+  {
+    "title": "Insight-Lens",
+    "description": "Insight-Lens is an interactive AI-driven dashboard that transforms raw datasets into dynamic 2D/3D visualizations and actionable insights. Built with Streamlit, the tool streamlines data processing, supports clustering and regression/classification models, and enables non-technical stakeholders to explore trends with ease. Designed for fast, intuitive exploration of complex data. Insight-Lens bridges the gap between machine learning and business decision-making.",
+    "image": "/images/insight-lens-dashboard.png",
+    "tech": ["Python", "Streamlit", "Plotly", "Scikit-learn", "Transformers", "UMAP-learn"],
+    "github": "https://github.com/aakashmak/Insight-Lens",
+    "liveUrl": "https://github.com/aakashmak/Insight-Lens"
+  },
+  {
+    "title": "Fitbit Fitness Dashboard",
+    "description": "A comprehensive analysis of fitness trends using a Fitbit fitness dashboard in PowerBI to uncover patterns in physical activity, calorie expenditure, and sleep habits. The project leverages PowerBI to create interactive visualizations that showcase fitness dynamics across users, time periods, and activity metrics. The analysis provides data-driven insights for health monitoring, personal wellness planning, and fitness policy-making.",
+    "image": "/images/fitbit-dashboard.png",
+    "tech": ["Power BI", "Excel", "Data Analysis", "Health Analytics", "Dashboard Design"],
+    "github": "https://github.com/aakashmak/Fitbit-Fitness-PowerBi-Dashboard"
+  }
+]

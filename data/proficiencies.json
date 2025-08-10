@@ -1,0 +1,65 @@
+{
+  "title": "My Proficiencies",
+  "proficiencies": [
+    {
+      "title": "Data Analysis",
+      "description": "Uncover trends and insights from raw data.",
+      "skills": [
+        { "name": "Python", "value": 50, "color": "#00b3ff" },
+        { "name": "R", "value": 50, "color": "#EFC300" }
+      ]
+    },
+    {
+      "title": "Predictive Analytics",
+      "description": "Use predictive models to forecast outcomes.",
+      "skills": [
+        { "name": "SQL", "value": 40, "color": "#00ffff" },
+        { "name": "Logistic Regression", "value": 35, "color": "#25bfff" },
+        { "name": "XGBoost", "value": 30, "color": "#4b7fff" },
+        { "name": "Random Forest", "value": 25, "color": "#703fff" },
+        { "name": "Neural Networks", "value": 45, "color": "#9600ff" }
+      ]
+    },
+    {
+      "title": "Data Visualization",
+      "description": "Create compelling dashboards and reports.",
+      "skills": [
+        { "name": "Tableau", "value": 35, "color": "#fff9c4" },
+        { "name": "Power BI", "value": 65, "color": "#ff8a36" }
+      ]
+    },
+    {
+      "title": "ML & DL Frameworks",
+      "description": "Software libraries simplifying model building, training, and deployment for AI tasks.",
+      "skills": [
+        { "name": "Pandas", "value": 100, "color": "#f20089" },
+        { "name": "Numpy", "value": 100, "color": "#e500a4" },
+        { "name": "Scikit-learn", "value": 100, "color": "#db00b6" },
+        { "name": "Seaborn", "value": 100, "color": "#d100d1" },
+        { "name": "Flask", "value": 100, "color": "#bc00dd" },
+        { "name": "Fast-api", "value": 100, "color": "#b100e8" },
+        { "name": "Tensorflow", "value": 100, "color": "#a100f2" },
+        { "name": "Pytorch", "value": 100, "color": "#8900f2" },
+        { "name": "Ml-flow", "value": 100, "color": "#6a00f4" },
+        { "name": "Streamlit", "value": 100, "color": "#2d00f7" }
+      ]
+    },
+    {
+      "title": "Web Development",
+      "description": "Build interactive and dynamic web solutions.",
+      "skills": [
+        { "name": "JavaScript", "value": 40, "color": "#ff0099" },
+        { "name": "HTML/CSS", "value": 60, "color": "#ffccff" }
+      ]
+    },
+    {
+      "title": "Collaboration",
+      "description": "Work seamlessly with teams to optimize data strategies.",
+      "skills": [
+        { "name": "Teamwork", "value": 33, "color": "#33CFFE" },
+        { "name": "Communication", "value": 33, "color": "#8854C0" },
+        { "name": "Project Management", "value": 34, "color": "#FF3364" }
+      ]
+    }
+  ]
+}
