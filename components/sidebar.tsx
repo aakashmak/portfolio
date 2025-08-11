@@ -80,17 +80,11 @@ export default function Sidebar() {
             {config.navLinks.map(({ name, url }, i) => (
               <li key={i}>
                 <Link href={url} className="nav-link">
-                  {/* Removed the nav-link-number span */}
                   {name}
                 </Link>
               </li>
             ))}
           </ol>
-          <div className="ml-4">
-            <a href={config.resumeUrl} className="button" target="_blank" rel="noopener noreferrer">
-              Resume
-            </a>
-          </div>
         </div>
 
         <button
@@ -125,17 +119,11 @@ export default function Sidebar() {
                       document.body.classList.remove("overflow-hidden")
                     }}
                   >
-                    {/* Removed the nav-link-number span */}
                     {name}
                   </Link>
                 </motion.li>
               ))}
             </ol>
-            <motion.div variants={itemVariants} className="mt-8">
-              <a href={config.resumeUrl} className="button" target="_blank" rel="noopener noreferrer">
-                Resume
-              </a>
-            </motion.div>
           </motion.nav>
         </motion.div>
       </nav>
