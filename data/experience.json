@@ -21,7 +21,9 @@
     "url": "https://citylink.co/",
     "responsibilities": [
       "Designed and implemented advanced market segmentation models, leveraging analytical skills to optimize customer targeting,resulting in a 15% increase in sales conversions and improved marketing efficiency.",
+      "Built forecasting models for B2B pricing leveraging historical sales, operational data, and market trends to optimize pricing decisions.",
       "Developed predictive analytics models to enhance product forecasting accuracy by 25%",
+      "Implemented automated ETL pipelines integrating multi-source data for pricing simulations and scenario analysis, reducing manual workload by 40%.",
       "Improved marketing efficiency resulting in a 15% increase in sales conversions",
       "Engineered an automated product collection visualization system using Python and REST API, reducing warehouse picking time by 40%",
       "Streamlined operational workflows and reduced database process bottlenecks by 20%"
@@ -48,6 +50,7 @@
     "url": "https://www.cholamandalam.com/",
     "responsibilities": [
       "Automate the pricing model for selling repossessed vehicles, eliminating the need for a third party. It involves classifying the predicted selling price as undervalued or overvalued based on the sales price",
+      "Designed and implemented dynamic pricing strategies by analyzing market trends, depreciation patterns, competitive benchmarks, leveraging Power BI visualizations to deliver actionable insights that optimized valuation accuracy and boosted revenue recovery rates.",
       "Designed a Multi-Level Grid system to determine maximum selling prices by analyzing historical sales data of comparable vehicles",
       "Built and deployed a Linear Regression model to predict value depreciation based on factors such as RC availability, accident status, seizure duration, and vehicle condition",
       " Implemented a Logistic Regression model to classify vehicles as undervalued or overvalued, optimizing pricing strategies prior to repossession marking."
