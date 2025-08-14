@@ -19,7 +19,7 @@ const firaCode = Fira_Code({
 export const metadata: Metadata = {
   title: `${config.name} | ${config.tagline}`,
   description: `Personal portfolio website of ${config.name}, ${config.tagline}`,
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
