@@ -30,15 +30,15 @@
     ]
   },
   {
-    "title": "Data Scientist Intern",
+    "title": "Machine Learning Intern",
     "company": "Bitwise Academy",
     "location": "Coimbatore, TN",
     "range": "January 2021 - May 2021",
     "url": "https://bitwiseacademy.com/",
     "responsibilities": [
-      "Developed an automated solution to extract and download PDFs, videos, text, and code from 300+ URLs using Python and REST APIs",
-      "Established a PostgreSQL database for efficient log storage and real-time monitoring",
-      "Developed a scalable Flask-based web scraping solution using Object-Oriented Programming (OOP) principles",
+      "Developed and deployed supervised and unsupervised machine learning models (classification, regression, clustering) on structured and unstructured data, improving academic performance insights and reducing manual analysis efforts by 40% ",
+      "Built NLP pipelines for automated text and document analysis (PDF/video transcript extraction, preprocessing, sentiment analysis), enabling large-scale ingestion and processing of 300+ diverse data sources",
+      "Designed and productionized end-to-end ML workflows, including data preprocessing, feature engineering, model training, and deployment with Flask + PostgreSQL, ensuring models were production-ready and scalable for real-world applications",
       " Achieved a 50% reduction in manual data retrieval time for the team"
     ]
   },
